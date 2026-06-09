@@ -325,5 +325,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Jenil M. Panchal**
+**Jenil M. Panchal**   
 (Data Science Enthusiast)
